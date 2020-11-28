@@ -1,1 +1,1 @@
-https://wakatime.com/badge/github/AquibPy/Ds-Algo-Practice.svg
+[![time tracker](https://wakatime.com/badge/github/AquibPy/Ds-Algo-Practice.svg)](https://wakatime.com/badge/github/AquibPy/Ds-Algo-Practice)
